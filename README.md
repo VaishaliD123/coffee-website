@@ -8,4 +8,8 @@ This is a coffee website which is developed with PHP
 - PHP
 - MySQL
 
+#license
+This project is under [MIT] license.
+
+
 
