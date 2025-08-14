@@ -8,5 +8,4 @@ This is a coffee website which is developed with PHP
 - PHP
 - MySQL
 
-# License
-This project is under <a href="https://github.com/ValentineFernandes/Coffee-Website/blob/main/LICENSE"> MIT </a> license.
+
